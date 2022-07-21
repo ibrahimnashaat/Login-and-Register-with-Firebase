@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848094247033",
+    "project_id": "login-8046b",
+    "storage_bucket": "login-8046b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848094247033:android:15fd5179cb14388f953ca8",
+        "android_client_info": {
+          "package_name": "com.example.neuro_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848094247033-6gasrtf7mm5v1ufpi43a5tibkc7r07cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKndNO5h-5igLXphRJVryDJp5yGdsh2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848094247033-6gasrtf7mm5v1ufpi43a5tibkc7r07cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
